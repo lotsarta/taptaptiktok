@@ -53,6 +53,10 @@ h2 {
     padding: 6px;
     margin-bottom: 20px;
 }
+.harga svg {
+    fill: #fff;
+    margin-right: 6px;
+}
 .kecil {
     font-size: 14px;
 }
